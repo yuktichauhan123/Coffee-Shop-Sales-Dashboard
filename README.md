@@ -24,9 +24,9 @@ This project analyzes retail sales data of a coffee shop to uncover actionable i
 
 ## 📂 Files Included
 📊 Dashboard Preview  
-![Coffee-Shop-Sales-Dashboard]()
-- `Coffee Shop Sales Dashboard.xlsx` → Interactive Excel Dashboard
-- `Coffee Shop Sales Analysis.pdf` → Key Questions & Insights
+![Coffee-Shop-Sales-Dashboard](https://github.com/yuktichauhan123/Coffee-Shop-Sales-Dashboard/blob/main/Coffee_Dashboard.png)
+- `Coffee Shop Sales Dashboard.xlsx`![Coffee-Shop-Sales-xls](https://github.com/yuktichauhan123/Coffee-Shop-Sales-Dashboard/blob/main/Coffee_Report_Project2.xlsx) → Interactive Excel Dashboard
+- `Coffee Shop Sales Analysis.pdf` ![Coffee-Shop-Sales-Anlysis](https://github.com/yuktichauhan123/Coffee-Shop-Sales-Dashboard/blob/main/Coffee%20Shop%20Sales%20Analysis.pdf)→ Key Questions & Insights
 - `README.md` → Project Documentation
 
 ## 🚀 How to Use
