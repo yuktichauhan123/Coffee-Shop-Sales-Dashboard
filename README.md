@@ -36,6 +36,5 @@ This project analyzes retail sales data of a coffee shop to uncover actionable i
 
 ## 🔗 Connect with Me
 If you found this useful, feel free to connect with me on GitHub!
-
----
+![LinkedIn](https://www.linkedin.com/in/yukti-chauhan/)
 📌 *This project showcases my skills in data analysis using Excel. Looking forward to feedback and improvements!* 🎯
