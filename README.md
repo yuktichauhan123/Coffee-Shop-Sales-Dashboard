@@ -23,6 +23,8 @@ This project analyzes retail sales data of a coffee shop to uncover actionable i
 - **Data Cleaning & Analysis** (Sorting, Filtering, Functions)
 
 ## 📂 Files Included
+📊 Dashboard Preview  
+![Coffee-Shop-Sales-Dashboard]()
 - `Coffee Shop Sales Dashboard.xlsx` → Interactive Excel Dashboard
 - `Coffee Shop Sales Analysis.pdf` → Key Questions & Insights
 - `README.md` → Project Documentation
